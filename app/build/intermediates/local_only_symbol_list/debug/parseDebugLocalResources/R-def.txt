@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id overlay
+id previewView
+layout activity_main
+string app_name
